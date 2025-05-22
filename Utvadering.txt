@@ -1,0 +1,29 @@
+Skriv ditt namn här: Barman
+
+Reflektion och Analys av Arbetsprocessen
+Planering och Problemlösning
+Hur planerade du ditt arbete under projektets gång? Vilken nytta hade du t.ex. av flödesschemat eller andra metoder du använde dig av för att planera och organisera ditt arbete? Ge ett exempel på en utmaning du mötte och hur du löste den. Reflektera över om det fanns något som kunde ha gjorts annorlunda. Jag började med en enkel idé och ritade upp flödet som ett träd med val. Flödesschemat hjälpte mig förstå hur spelaren skulle röra sig. En utmaning var att hålla koll på alla val och funktioner. Jag löste det genom att bryta upp spelet i mindre funktioner. I efterhand kunde jag planerat bättre innan jag började koda.
+
+
+
+
+
+Användning av Datavetenskapliga Begrepp
+Vilka datavetenskapliga begrepp eller tekniker använde du för att skapa spelets mekanik (t.ex. if-satser, loopar, dictionaries, funktioner, och klasser)? Hur hjälpte dessa tekniker dig att lösa spelets eller projektets utmaningar, och hur påverkade de funktionaliteten? Jag använde if-satser för att hantera val, funktioner för att separera delar av spelet och variabler för att lagra t.ex. liv. Dessa tekniker gjorde spelet lättare att testa och ändra. Funktionerna gjorde det tydligt och strukturerat.
+
+
+
+Effektivitet och Optimering
+Beskriv ett exempel där du arbetade för att förbättra kodens effektivitet. Vad ledde till denna optimering, och hur tror du att det påverkade spelets/projektets prestanda eller användarupplevelse? Jag förenklade upprepade koddelar, t.ex. felhantering vid svar, till återanvändbara funktioner. Det minskade mängden kod och gjorde det lättare att förstå. Det förbättrade både prestandan och hur lätt spelet var att underhålla.
+
+
+Analys av Tillämpningens Konsekvenser
+Programmeringens Konsekvenser för Speldesign och Användarupplevelse
+Vilka överväganden gjorde du kring spelets innehåll i relation till din valda målgrupp? Hur påverkade dina designval i projektet eller val inom speldesign (som menyer, stridssystem, pussel) och din unika berättelse, användarupplevelsen? Hur interagerar spelet/projektet med din avsedda användare (barn 6 - 10 år, nostalgiska vuxna 30 - 50 år, eller pensionärer 60+)? Spelet är gjort för barn och nybörjare, så jag höll det enkelt med korta instruktioner och inga svåra kommandon. Multiplikationsfrågor passade åldern och tränar hjärnan lite. Ett viktigt val var att lägga till två svårighetsgrader – det gjorde spelet mer spännande för olika spelare.
+Reflektera över ett val du gjorde för att förbättra spelet/projektet och förklara varför du tror att det var betydelsefullt.
+
+
+Förståelse av Datavetenskapliga Begrepp
+Val av Datastrukturer och Algoritmer
+Beskriv kort vilka datastrukturer och algoritmer du använde för att hantera spelets olika delar, som rumsförflyttning, inventariet, prestationer och sparfiler. Var dessa lösningar optimala, och hur kunde du ha förbättrat dem? Jag använde variabler och funktioner som enklaste datastrukturer. Inget avancerat som klasser eller sparfiler, eftersom spelet var kort. För ett längre spel hade jag behövt använda listor, dictionaries och kanske spara spelarens framsteg till fil.
+
